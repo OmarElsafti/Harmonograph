@@ -1,2 +1,2 @@
 # Harmonograph
-#####Drawing a Harmonograph in using Python Code
+##### Drawing a Harmonograph in using Python Code
